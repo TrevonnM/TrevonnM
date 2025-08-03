@@ -29,7 +29,6 @@ Here's a selection of the certifications I’ve earned along my cybersecurity jo
 - **Project Management: Preventing Scope Creep & Solving Common Problems**
 - **WordPress 5 Essential Training**
 
-📁 See the full certs in my [certifications repository](https://github.com/YOUR-USERNAME/certifications)
 
 ---
 
