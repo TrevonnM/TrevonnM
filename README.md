@@ -33,17 +33,21 @@ Here's a selection of the certifications I’ve earned along my cybersecurity jo
 
 ---
 
-## 💻 Full Sail Projects
-Each of these projects demonstrates my growing skill set in cybersecurity, networking, OSINT, and system management:
+## 🔐 Featured Technical Projects
 
-- 🔐 **Milestone 3 – Security Posture Report**
-- 🧰 **ITE119 Week 3 Project Report**
-- 🧠 **Final Project Report (Week 4)**
-- 📊 **Knowledge & Skills Matrix**
+These selected projects showcase my hands-on expertise in cybersecurity, IT operations, and cloud infrastructure:
 
-📁 View these in the [fullsail-projects repository](https://github.com/YOUR-USERNAME/fullsail-projects)
+- 🛡️ **Security Posture Audit & Analysis**  
+  Performed a detailed security posture review, including asset inventory, threat identification, and mitigation planning.
 
----
+- 🧰 **Windows System Deployment & Domain Integration**  
+  Created and configured Windows virtual machines, implemented domain joining, and managed users through Active Directory.
+
+- 📊 **Cybersecurity Strategy & Final Assessment Brief**  
+  Delivered a high-level security roadmap with strategic recommendations, compliance alignment, and risk reduction plans.
+
+- 🧠 **Technical Knowledge & Skills Matrix**  
+  Documented and visualized core competencies across cybersecurity, IT support, and cloud-based environments.
 
 ## 🔭 Currently Exploring
 - Threat Hunting & OSINT (Shodan, Censys, Wayback)
